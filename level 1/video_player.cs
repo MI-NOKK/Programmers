@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Programmers.level_1
 {
-    internal class video_player
+    class video_player
     {
         private int TimeToSeconds(string time)
         {
